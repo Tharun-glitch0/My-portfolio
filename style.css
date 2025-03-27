@@ -207,7 +207,7 @@ nav{
 
 .alink:hover{
     text-decoration: none;
-    color: green;
+    color: rgb(35, 220, 245);
 }
 
 /* this css is used for social links message */
@@ -355,7 +355,7 @@ footer{
 
 
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 600px) {
 
     body{
         margin: auto;
